@@ -1,4 +1,4 @@
-class Mitmproxy < Formula
+class MitmproxyAT017 < Formula
   desc "Intercept, modify, replay, save HTTP/S traffic"
   homepage "https://mitmproxy.org"
   url "https://github.com/mitmproxy/mitmproxy/archive/v0.17.1.tar.gz"
